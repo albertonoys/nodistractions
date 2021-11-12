@@ -18,6 +18,7 @@ youtube\..*
 youtubei.googleapis.com
 
 # Block Reddit
+.*\.redditmedia.com
 
 # Block Instagram
 
