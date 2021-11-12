@@ -18,10 +18,14 @@ youtube\..*
 youtubei.googleapis.com
 
 # Block Reddit
+.*\.reddit\..*
 .*\.redditmedia.com
 
 # Block Instagram
+.*\.instagram\..*
 
 # Block TikTok
+.*\.tiktok\..*
 
 # Block Facebook
+.*\.facebook\..*
