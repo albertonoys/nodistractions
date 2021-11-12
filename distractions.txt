@@ -9,6 +9,7 @@
 (\.|^)googlevideo\.com$
 (\.|^)youtube$
 (\.|^)googlevideo$
+.*\.googlevideo..*
 (\.|^)youtube$
 (\.|^)i\.ytimg\.com$
 (\.|^)googlevideo$
