@@ -3,3 +3,10 @@
 (\.|^)googlevideo\.com$
 (\.|^)youtube$
 (\.|^)googlevideo$
+(\.|^)youtube$
+(\.|^)i\.ytimg\.com$
+(\.|^)googlevideo$
+(\.|^)ggpht$
+.*\.youtube\..*
+youtube\..*
+youtubei.googleapis.com
