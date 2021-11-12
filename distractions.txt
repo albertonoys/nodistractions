@@ -1,3 +1,9 @@
+# Created by: noys
+# Profile: https://github.com/albertonoys
+# Internet Addiction RegEx filters
+
+# Block Youtube
+
 (\.|^)youtubei\.googleapis\.com$
 (\.|^)youtube\.com$
 (\.|^)googlevideo\.com$
@@ -10,3 +16,11 @@
 .*\.youtube\..*
 youtube\..*
 youtubei.googleapis.com
+
+# Block Reddit
+
+# Block Instagram
+
+# Block TikTok
+
+# Block Facebook
