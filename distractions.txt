@@ -6,13 +6,12 @@
 
 (\.|^)youtubei\.googleapis\.com$
 (\.|^)youtube\.com$
-(\.|^)googlevideo\.com$
+.*\.googlevideo\..*
 (\.|^)youtube$
 (\.|^)googlevideo$
 .*\.googlevideo..*
 (\.|^)youtube$
 (\.|^)i\.ytimg\.com$
-(\.|^)googlevideo$
 (\.|^)ggpht$
 .*\.youtube\..*
 youtube\..*
